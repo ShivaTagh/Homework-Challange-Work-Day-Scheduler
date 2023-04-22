@@ -28,5 +28,7 @@ This work day planner is from 9am to 6pm which interact with the user by showing
 It is able to add the events and save to the local storage.
 
 ## Links
+
 Deployed URL Link: https://shivatagh.github.io/Homework-Challange-Work-Day-Scheduler/
+
 GitHub Repository Link: https://github.com/ShivaTagh/Homework-Challange-Work-Day-Scheduler
