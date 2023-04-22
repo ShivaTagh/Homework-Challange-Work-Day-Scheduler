@@ -21,12 +21,12 @@ THEN the saved events persist
 ## Description:
 Here is the demo of my work day scheduler:
 
-![image](https://user-images.githubusercontent.com/127795324/233751754-16c2f016-b45d-4bd9-b6c5-33138ffd18b0.png)
+![image](https://user-images.githubusercontent.com/127795324/233752012-9be0067c-85b1-47a3-bfe5-434337bb6af0.png)
 
 
 This work day planner is from 9am to 6pm which interact with the user by showing the user the hours that have past , current and future hours.
 It is able to add the events and save to the local storage.
 
 ## Links
-Deployed URL Link: 
+Deployed URL Link: https://shivatagh.github.io/Homework-Challange-Work-Day-Scheduler/
 GitHub Repository Link: https://github.com/ShivaTagh/Homework-Challange-Work-Day-Scheduler
